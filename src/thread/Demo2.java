@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author rishabh
+ * @author rishabher
  */
 class Runner2 implements Runnable{
     public void run(){
